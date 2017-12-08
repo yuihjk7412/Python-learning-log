@@ -1,1 +1,6 @@
-##in the python learning, while and for is different from C/C++, they all got a special structure else, which also exist in if.
+1##in the python learning, while and for is different from C/C++, they all got a special structure else, which also exist in if.
+2##when you try to a initial value to the parameter in a function, you must put the parameter without any initial value before the parameter with initial value
+3##critical parameter:you can just give value to specific parameter disregard the order of the parameter, you can use critical parameter
+4##pass meaning a empty block in python
+5##DocStrings help your function easier to understand, recommend use it in every function, try to use the common structure of the docstring.
+
