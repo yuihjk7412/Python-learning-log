@@ -3,4 +3,4 @@
 3##critical parameter:you can just give value to specific parameter disregard the order of the parameter, you can use critical parameter
 4##pass meaning a empty block in python
 5##DocStrings help your function easier to understand, recommend use it in every function, try to use the common structure of the docstring.
-
+6##Tuple:Tuple has a similar feacture as the string, it can not be modified.
